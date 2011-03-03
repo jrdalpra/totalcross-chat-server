@@ -1,0 +1,1 @@
+<usuario id="${sessao.usuario.id}" jsessionid="${jsessionid}"/>
