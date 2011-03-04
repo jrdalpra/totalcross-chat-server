@@ -15,7 +15,7 @@
 		<jdbc.driver>org.postgresql.Driver</jdbc.driver>
 		<jdbc.username>postgres</jdbc.username>
 		<!-- trocar -->
-		<jdbc.password>cibmsis!@#123</jdbc.password>
+		<jdbc.password>sua_senha_aqui</jdbc.password>
 		<hibernate.dialect>org.hibernate.dialect.PostgreSQLDialect</hibernate.dialect>
 		<hibernate.schema.update.type>update</hibernate.schema.update.type>
 	</properties>
